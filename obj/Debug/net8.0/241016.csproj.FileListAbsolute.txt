@@ -1,0 +1,14 @@
+C:\Users\RL\241016\bin\Debug\net8.0\241016.exe
+C:\Users\RL\241016\bin\Debug\net8.0\241016.deps.json
+C:\Users\RL\241016\bin\Debug\net8.0\241016.runtimeconfig.json
+C:\Users\RL\241016\bin\Debug\net8.0\241016.dll
+C:\Users\RL\241016\bin\Debug\net8.0\241016.pdb
+C:\Users\RL\241016\obj\Debug\net8.0\241016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\241016\obj\Debug\net8.0\241016.AssemblyInfoInputs.cache
+C:\Users\RL\241016\obj\Debug\net8.0\241016.AssemblyInfo.cs
+C:\Users\RL\241016\obj\Debug\net8.0\241016.csproj.CoreCompileInputs.cache
+C:\Users\RL\241016\obj\Debug\net8.0\241016.dll
+C:\Users\RL\241016\obj\Debug\net8.0\refint\241016.dll
+C:\Users\RL\241016\obj\Debug\net8.0\241016.pdb
+C:\Users\RL\241016\obj\Debug\net8.0\241016.genruntimeconfig.cache
+C:\Users\RL\241016\obj\Debug\net8.0\ref\241016.dll
